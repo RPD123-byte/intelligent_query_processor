@@ -1,0 +1,20 @@
+# Ignore Jupyter notebook files
+*.ipynb
+
+# Ignore specific directories
+adalo/
+cache/
+config/
+app/
+
+# Ignore specific files
+criteria.txt
+random.txt
+.gitignore
+
+# Optionally ignore other unnecessary files or directories
+.DS_Store
+
+
+sample_requirements.txt
+
