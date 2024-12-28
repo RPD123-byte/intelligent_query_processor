@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-The Intelligent Query Processor (IQP) is a cutting-edge solution that leverages an agentic framework through Langraph to convert natural language requests into highly accurate database queries. Achieving a remarkable 99% success rate, the IQP goes beyond conventional query systems by implementing a custom search algorithm capable of returning complex, multi-hop relevant results. This revolutionary technology empowers users to extract deeply interconnected data with ease, making it an invaluable tool for anyone requiring advanced data retrieval capabilities.
+The Intelligent Query Processor (IQP) is a cutting-edge solution that leverages an agentic framework through Langraph to convert natural language requests into highly accurate database queries. Achieving a high success rate, the IQP goes beyond conventional query systems by implementing a custom search algorithm capable of returning complex, multi-hop relevant results. This revolutionary technology empowers users to extract deeply interconnected data with ease, making it an invaluable tool for anyone requiring advanced data retrieval capabilities.
 
 ## **Key Features**
 
